@@ -1,0 +1,4 @@
+---(without assigning in the create table section)
+---not null---(assigning in the create table section)
+---not null---(Add constraints to existing table)
+---drop constraint---
